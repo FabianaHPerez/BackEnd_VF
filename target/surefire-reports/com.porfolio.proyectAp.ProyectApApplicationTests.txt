@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.porfolio.proyectAp.ProyectApApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.269 s - in com.porfolio.proyectAp.ProyectApApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.465 s - in com.porfolio.proyectAp.ProyectApApplicationTests
